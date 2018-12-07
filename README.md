@@ -1,2 +1,2 @@
 # PrisonEscape
-A simple text adventure game.
+Source code to a simple text adventure game.
